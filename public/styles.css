@@ -1,0 +1,31 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #f8f9fa;
+}
+
+
+button {
+    margin: 20px auto;
+    display: block;
+    padding: 10px 20px;
+    font-size: 30px;
+}
+
+#generate-btn {
+    background-color: #AB92BF; 
+    border: none;
+}
+
+#generate-btn:hover {
+    background-color: #9C7EB4; 
+; 
+}
+
+#confirm-btn {
+    background-color: #A0BBA0; 
+    border: none;
+}
+
+#confirm-btn:hover {
+    background-color: #7CA27C; 
+}
